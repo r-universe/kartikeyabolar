@@ -1,135 +1,82 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ANOVAIREVA"]
 	path = ANOVAIREVA
 	url = https://github.com/cran/ANOVAIREVA
-	shallow = true
-	registered = true
 [submodule "ANOVAShiny"]
 	path = ANOVAShiny
 	url = https://github.com/cran/ANOVAShiny
-	shallow = true
-	registered = true
 [submodule "ANOVAShiny2"]
 	path = ANOVAShiny2
 	url = https://github.com/cran/ANOVAShiny2
-	shallow = true
-	registered = true
 [submodule "BLRShiny"]
 	path = BLRShiny
 	url = https://github.com/cran/BLRShiny
-	shallow = true
-	registered = true
 [submodule "BLRShiny2"]
 	path = BLRShiny2
 	url = https://github.com/cran/BLRShiny2
-	shallow = true
-	registered = true
 [submodule "CLUSTShiny"]
 	path = CLUSTShiny
 	url = https://github.com/cran/CLUSTShiny
-	shallow = true
-	registered = true
 [submodule "CMShiny"]
 	path = CMShiny
 	url = https://github.com/cran/CMShiny
-	shallow = true
-	registered = true
 [submodule "CTAShiny"]
 	path = CTAShiny
 	url = https://github.com/cran/CTAShiny
-	shallow = true
-	registered = true
 [submodule "CTShiny"]
 	path = CTShiny
 	url = https://github.com/cran/CTShiny
-	shallow = true
-	registered = true
 [submodule "CTShiny2"]
 	path = CTShiny2
 	url = https://github.com/cran/CTShiny2
-	shallow = true
-	registered = true
 [submodule "GOFShiny"]
 	path = GOFShiny
 	url = https://github.com/cran/GOFShiny
-	shallow = true
-	registered = true
 [submodule "KNNShiny"]
 	path = KNNShiny
 	url = https://github.com/cran/KNNShiny
-	shallow = true
-	registered = true
 [submodule "MDSPCAShiny"]
 	path = MDSPCAShiny
 	url = https://github.com/cran/MDSPCAShiny
-	shallow = true
-	registered = true
 [submodule "MNLR"]
 	path = MNLR
 	url = https://github.com/cran/MNLR
-	shallow = true
-	registered = true
 [submodule "NBShiny"]
 	path = NBShiny
 	url = https://github.com/cran/NBShiny
-	shallow = true
-	registered = true
 [submodule "NBShiny2"]
 	path = NBShiny2
 	url = https://github.com/cran/NBShiny2
-	shallow = true
-	registered = true
 [submodule "NBShiny3"]
 	path = NBShiny3
 	url = https://github.com/cran/NBShiny3
-	shallow = true
-	registered = true
 [submodule "NDP"]
 	path = NDP
 	url = https://github.com/cran/NDP
-	shallow = true
-	registered = true
 [submodule "PDShiny"]
 	path = PDShiny
 	url = https://github.com/cran/PDShiny
-	shallow = true
-	registered = true
 [submodule "PREPShiny"]
 	path = PREPShiny
 	url = https://github.com/cran/PREPShiny
-	shallow = true
-	registered = true
 [submodule "PROBShiny"]
 	path = PROBShiny
 	url = https://github.com/cran/PROBShiny
-	shallow = true
-	registered = true
 [submodule "semdrw"]
 	path = semdrw
 	url = https://github.com/cran/semdrw
-	shallow = true
-	registered = true
 [submodule "STAT"]
 	path = STAT
 	url = https://github.com/cran/STAT
-	shallow = true
-	registered = true
 [submodule "STAT2"]
 	path = STAT2
 	url = https://github.com/cran/STAT2
-	shallow = true
-	registered = true
 [submodule "TAShiny"]
 	path = TAShiny
 	url = https://github.com/cran/TAShiny
-	shallow = true
-	registered = true
 [submodule "VTShiny"]
 	path = VTShiny
 	url = https://github.com/cran/VTShiny
-	shallow = true
-	registered = true
