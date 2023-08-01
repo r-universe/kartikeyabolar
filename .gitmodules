@@ -65,9 +65,6 @@
 [submodule "PROBShiny"]
 	path = PROBShiny
 	url = https://github.com/cran/PROBShiny
-[submodule "semdrw"]
-	path = semdrw
-	url = https://github.com/cran/semdrw
 [submodule "STAT"]
 	path = STAT
 	url = https://github.com/cran/STAT
@@ -80,3 +77,6 @@
 [submodule "VTShiny"]
 	path = VTShiny
 	url = https://github.com/cran/VTShiny
+[submodule "semdrw"]
+	path = semdrw
+	url = https://github.com/cran/semdrw
